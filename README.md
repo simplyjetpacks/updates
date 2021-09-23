@@ -1,2 +1,2 @@
 # updates
-Simply repo to store the changelogs and update data etc.
+Simple repo to store the changelogs and update data etc.
