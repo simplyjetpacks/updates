@@ -8,8 +8,7 @@
 - **General**
   - Updated to Minecraft Version 1.17.1
 
-[comment]: <> (TODO: this)
-# 2.6.12 - xx-xx-2021
+# 2.6.12 - 21-01-2022
 - **General**
   - New Features and Improved Systems
   - Reworked jetpack config system
