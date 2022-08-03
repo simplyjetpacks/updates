@@ -1,3 +1,7 @@
+# 2.7.3 - 03-08-2022
+- **Fixed**
+  - Fixed Curios integration
+
 # 2.7.2 - 04-09-2021
 - **General**
   - Update Forge version
