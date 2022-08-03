@@ -1,3 +1,7 @@
+# 2.9.0 - 03-08-2022
+- **General**
+  - Updated to Minecraft Version 1.19.1
+
 # 2.8.0 - 03-08-2022
 - **General**
   - Updated to Minecraft Version 1.18.2
